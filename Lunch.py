@@ -4,7 +4,7 @@ import sys
 from PyQt5 import QtWidgets
 from PyQt5.QtWidgets import QApplication,QMainWindow,QToolTip
 from PyQt5.QtGui import QIcon
-from pencere import Ui_MainWindow
+from Interface import Ui_MainWindow
 
 
 class analiz(QMainWindow):
